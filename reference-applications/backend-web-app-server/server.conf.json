@@ -1,0 +1,14 @@
+{
+    "port" : 3000,
+    "realm" : "KMLXSI",
+    "labFQDN" : "experience.cc.avayacloud.com",
+    "integrationId" : "42a3ae45-e2eb-41dc-8a12-0607dfc66a71",
+    "clientId" : "KMLXSI",
+    "clientSecret" : "ce417c82-6ede-455e-b8e7-1e67984f07b1",
+    "ttl": "30",
+    "secure": false, 
+    "certificatePath": "",
+    "privateKeyPath": "",
+    "passphrase": "",
+    "allowedOrigins": ["*"]
+}
